@@ -1,5 +1,5 @@
 # Student-Campus-Placement-Predictions
-- enrgvijeriae
+
 **Author:** D Gokul Kanna  
 
 ---
